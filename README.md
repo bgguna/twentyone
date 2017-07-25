@@ -3,7 +3,7 @@
 
 ## About
 
-This is an iOS Application insipired by (21 Points)[http://www.21-points.com/#/].
+This is an iOS Application insipired by [21 Points](http://www.21-points.com/#/).
 
 This is designed to help users adopt a healtiher lifestyle.
 
